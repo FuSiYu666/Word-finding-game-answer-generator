@@ -1,0 +1,3 @@
+C:/编程/github/Word-finding game/cmake-build-debug/CMakeFiles/Word_finding_game.dir
+C:/编程/github/Word-finding game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/编程/github/Word-finding game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
